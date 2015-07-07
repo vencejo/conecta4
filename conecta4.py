@@ -25,6 +25,7 @@ def reseteaTablero(tablero):
     for col in range(COLMAX):
         for fil in range(FILMAX):
             tablero[fil][col] = 0
+    return tablero
 
 def dibujaTablero(tablero):
     """ Dibuja el tablero que se le pasa en formato grafico"""
