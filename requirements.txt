@@ -1,0 +1,6 @@
+# Por ahora no hace falta instalar ningun paquete
+# pero si lo hiciese habria que poner algo de la forma:
+
+# guessit>=0.5.2
+# tvdb_api>=1.8.2
+# hachoir-metadata>=1.3.3
